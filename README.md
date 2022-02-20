@@ -35,7 +35,7 @@ by changing the values in application.yml under the _resources_ folder.<br>
 For example it's possible to change the maximum price of the fruit baskets
 and the number of stands the friends encounter along the way.
 
-###Known limitations
+### Known limitations
 Because of a limitation of the reactive framework used,
 the maximum number of stands supported is 23.
 This can be worked around by rewriting the code that prints
